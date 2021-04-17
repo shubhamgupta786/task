@@ -1,0 +1,67 @@
+#search_wrapper{
+    width:400px;
+    height:40px;
+    position:relative;
+    margin-left: 27em;
+}
+
+#search_field {
+    margin-left:46px;
+    margin-top: 10px;
+    height:40px;
+    width:310px;
+    border-radius: 0.5em;
+}
+
+#search_button {
+    position: absolute;
+    margin-top: 1.5em;
+    right:0;
+    width: auto;
+    height:auto;
+}
+
+#btn {
+    height: 45px;
+    width: 120px;
+    border-radius: 0.5em;
+}
+
+#btnUpdate {
+    height: 45px;
+    width: 120px;
+    border-radius: 0.5em;
+    margin-left: 0.5em;
+}
+
+#btnRemove {
+    height: 45px;
+    width: 130px;
+    border-radius: 0.5em;
+    margin-left: 0.5em;
+}
+
+#list {
+    margin-left: 24em;
+    margin-top: 7em;
+}
+
+#item {
+    width: 27em;
+    height: 1.5em;
+    background-color: white;
+    margin-top: 0.5em;
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+    list-style-type: none;
+    border-radius: 0.5em;
+}
+
+.fa-trash{
+    float: right;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    padding: 3px;
+    cursor: pointer;
+    background-color: aliceblue;
+}
